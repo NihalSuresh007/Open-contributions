@@ -7,7 +7,6 @@ Linked Lists
 Trees
 Graphs
 ```
-
 #Algorithms Topics
 ```
 Graph
